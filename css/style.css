@@ -1,0 +1,26 @@
+body {
+    background-color: deepskyblue;
+    
+    .text {
+        width: 300px;
+        border: 5px solid white;
+        padding: 50px;
+        margin: 20px;
+        border-radius: 10px;
+        background-color: aqua;
+        
+      }
+    
+    
+      .secondText {
+        width: 300px;
+        border: 5px solid white;
+        padding: 50px;
+        margin: 20px;
+        border-radius: 10px;
+        background-color: lightblue;
+      }
+
+      
+      }
+  
