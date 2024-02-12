@@ -1,5 +1,9 @@
 body {
-    background-color: deepskyblue;
+    
+
+    .container {
+      display: flex;
+    }
     
     .text {
         width: 300px;
@@ -19,8 +23,14 @@ body {
         margin: 20px;
         border-radius: 10px;
         background-color: lightblue;
+
+      }
+
+
+      .content-wrapper {
+
       }
 
       
-      }
+    }
   
