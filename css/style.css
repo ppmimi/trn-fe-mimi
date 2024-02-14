@@ -62,7 +62,7 @@ body {
     }
 
 
-    .container2{
+    .container{
       display: flex;
       background-color: #838E55;
     }
@@ -78,7 +78,8 @@ body {
       justify-content: flex-start;
     }
 
-    .container3{
-      display: flex;
-      justify-content: ;
+
+    .content-wrapper .beige{
+        background-color: burlywood;
     }
+    
