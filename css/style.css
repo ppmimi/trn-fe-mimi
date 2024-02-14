@@ -1,7 +1,8 @@
 body {
-    
 
-    .container {
+}
+
+    .containerFlip {
       display: flex;
     }
     
@@ -27,10 +28,57 @@ body {
       }
 
 
-      .content-wrapper {
+      .container {
+        max-width: 1200px;
+        width: 100%margin 0 auto ;
 
       }
 
+      .content-wrapper{
+        background: #838E55;
+        border-radius: 20px;
+        display: flex;
+        padding: 28px;
+      }
+
+      .content-wrapper.ligthgreen{
+        background-color: red;
+      }
+      
+    .content-wrapper .text-wrapper h3{
+      font-size: 60px;
+      margin: 0;
+    }
+
+    .content-wrapper .text-wrapper .btn a{
+      max-width: 160px;
+      width: 100%;
+      height: 51px;
+      background-color: #331b3b;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+
+    .container2{
+      display: flex;
+      background-color: #838E55;
+    }
+
+    .inner-container{
+      background-color: beige;
+      justify-content: flex-start;
+      border-radius: 20px;
       
     }
-  
+
+    .img{
+      justify-content: flex-start;
+    }
+
+    .container3{
+      display: flex;
+      justify-content: ;
+    }
